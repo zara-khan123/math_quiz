@@ -1,6 +1,8 @@
 body
 {
  background-color: crimson;
+ text-align: center;
+ float: none;
 }
 #form-control
 {
@@ -14,4 +16,18 @@ border-top: 10px solid #AA4465;
 padding:10px;
 float: none;
 text-align: left;
+}
+.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
 }
