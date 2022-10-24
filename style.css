@@ -6,7 +6,7 @@ body
 }
 #form-control
 {
-color: crimson;
+color: rgb(0, 0, 0);
 }
 #output
 {
@@ -30,4 +30,9 @@ text-align: left;
 {
 	display: inline-block;
 	margin-left: 20px;
+}
+#writing
+{
+    font-weight: 500;
+    font-size: 15px;
 }
